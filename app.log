@@ -1,0 +1,399 @@
+2024-08-09 18:40:38,951 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:40:38,952 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 18:40:38,952 - DEBUG - Calling on_header_value with data[71:113]
+2024-08-09 18:40:38,952 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:40:38,952 - DEBUG - Calling on_header_field with data[115:127]
+2024-08-09 18:40:38,953 - DEBUG - Calling on_header_value with data[129:139]
+2024-08-09 18:40:38,953 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:40:38,953 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:40:38,954 - DEBUG - Calling on_part_data with data[143:88157]
+2024-08-09 18:40:38,963 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:40:38,964 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:40:38,964 - DEBUG - Calling on_header_field with data[88209:88228]
+2024-08-09 18:40:38,964 - DEBUG - Calling on_header_value with data[88230:88267]
+2024-08-09 18:40:38,964 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:40:38,964 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:40:38,964 - DEBUG - Calling on_part_data with data[88271:88280]
+2024-08-09 18:40:38,964 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:40:38,964 - DEBUG - Calling on_end with no data
+2024-08-09 18:40:38,965 - INFO - Received image transformation request
+2024-08-09 18:40:38,965 - DEBUG - File uploaded with filename: hc.jpeg
+2024-08-09 18:40:38,974 - INFO - Applying grayscale transformation
+2024-08-09 18:40:39,053 - INFO - Image transformation successful
+2024-08-09 18:40:39,055 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.10s
+2024-08-09 18:41:44,467 - INFO - Health check endpoint accessed
+2024-08-09 18:41:44,468 - INFO - GET http://localhost:8000/health/ - Status: 200 - Time: 0.00s
+2024-08-09 18:45:30,336 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:45:30,336 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 18:45:30,337 - DEBUG - Calling on_header_value with data[71:113]
+2024-08-09 18:45:30,337 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:45:30,337 - DEBUG - Calling on_header_field with data[115:127]
+2024-08-09 18:45:30,337 - DEBUG - Calling on_header_value with data[129:139]
+2024-08-09 18:45:30,337 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:45:30,337 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[143:80742]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[0:1]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[80743:83699]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[0:1]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[83700:88157]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:45:30,338 - DEBUG - Calling on_header_field with data[88209:88228]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_header_value with data[88230:88267]
+2024-08-09 18:45:30,338 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:45:30,338 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:45:30,338 - DEBUG - Calling on_part_data with data[88271:88280]
+2024-08-09 18:45:30,339 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:45:30,339 - DEBUG - Calling on_end with no data
+2024-08-09 18:45:30,339 - INFO - Received image transformation request
+2024-08-09 18:45:30,340 - DEBUG - File uploaded with filename: hc.jpeg
+2024-08-09 18:45:30,347 - INFO - Applying grayscale transformation
+2024-08-09 18:45:30,423 - INFO - Image transformation successful
+2024-08-09 18:45:30,425 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.09s
+2024-08-09 18:46:41,409 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_value with data[71:115]
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_field with data[117:129]
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_value with data[131:141]
+2024-08-09 18:46:41,409 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:46:41,409 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_part_data with data[145:10548]
+2024-08-09 18:46:41,410 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_header_field with data[10600:10619]
+2024-08-09 18:46:41,410 - DEBUG - Calling on_header_value with data[10621:10658]
+2024-08-09 18:46:41,410 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_part_data with data[10662:10671]
+2024-08-09 18:46:41,410 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:46:41,410 - DEBUG - Calling on_end with no data
+2024-08-09 18:46:41,411 - INFO - Received image transformation request
+2024-08-09 18:46:41,411 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 18:46:41,411 - INFO - Applying grayscale transformation
+2024-08-09 18:46:41,419 - INFO - Image transformation successful
+2024-08-09 18:46:41,420 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.01s
+2024-08-09 18:49:07,558 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:49:07,558 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 18:49:07,558 - DEBUG - Calling on_header_value with data[71:115]
+2024-08-09 18:49:07,558 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:49:07,559 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:49:07,559 - DEBUG - Calling on_part_data with data[119:13991]
+2024-08-09 18:49:07,559 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:49:07,559 - DEBUG - Calling on_part_begin with no data
+2024-08-09 18:49:07,560 - DEBUG - Calling on_header_field with data[14043:14062]
+2024-08-09 18:49:07,560 - DEBUG - Calling on_header_value with data[14064:14101]
+2024-08-09 18:49:07,560 - DEBUG - Calling on_header_end with no data
+2024-08-09 18:49:07,560 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 18:49:07,560 - DEBUG - Calling on_part_data with data[14105:14114]
+2024-08-09 18:49:07,560 - DEBUG - Calling on_part_end with no data
+2024-08-09 18:49:07,560 - DEBUG - Calling on_end with no data
+2024-08-09 18:49:07,561 - INFO - POST http://localhost:8000/transform/ - Status: 422 - Time: 0.00s
+2024-08-09 19:07:22,450 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:07:22,451 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:07:22,451 - DEBUG - Calling on_header_value with data[71:115]
+2024-08-09 19:07:22,451 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:07:22,452 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:07:22,452 - DEBUG - Calling on_part_data with data[119:13991]
+2024-08-09 19:07:22,452 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:07:22,453 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:07:22,453 - DEBUG - Calling on_header_field with data[14043:14062]
+2024-08-09 19:07:22,453 - DEBUG - Calling on_header_value with data[14064:14101]
+2024-08-09 19:07:22,453 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:07:22,453 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:07:22,453 - DEBUG - Calling on_part_data with data[14105:14114]
+2024-08-09 19:07:22,453 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:07:22,453 - DEBUG - Calling on_end with no data
+2024-08-09 19:07:22,454 - INFO - POST http://localhost:8000/transform/ - Status: 422 - Time: 0.01s
+2024-08-09 19:08:03,702 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:03,703 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:08:03,703 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:08:03,703 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,703 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:03,703 - DEBUG - Calling on_part_data with data[112:118]
+2024-08-09 19:08:03,703 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:03,703 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_field with data[170:189]
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_value with data[191:214]
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_part_data with data[218:220]
+2024-08-09 19:08:03,704 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_field with data[272:291]
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_value with data[293:316]
+2024-08-09 19:08:03,704 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:03,704 - DEBUG - Calling on_part_data with data[320:323]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_field with data[375:394]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_value with data[396:420]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_part_data with data[424:427]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_field with data[479:498]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_value with data[500:544]
+2024-08-09 19:08:03,705 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,706 - DEBUG - Calling on_header_field with data[546:558]
+2024-08-09 19:08:03,706 - DEBUG - Calling on_header_value with data[560:570]
+2024-08-09 19:08:03,706 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:03,706 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:03,706 - DEBUG - Calling on_part_data with data[574:10977]
+2024-08-09 19:08:03,706 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:03,706 - DEBUG - Calling on_end with no data
+2024-08-09 19:08:03,707 - INFO - Received image transformation request
+2024-08-09 19:08:03,707 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:08:03,715 - INFO - Rotating image by 45 degrees
+2024-08-09 19:08:03,735 - INFO - Image transformation successful
+2024-08-09 19:08:03,736 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.03s
+2024-08-09 19:08:36,616 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:36,616 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:08:36,616 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:08:36,616 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,616 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_data with data[112:118]
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_header_field with data[170:189]
+2024-08-09 19:08:36,617 - DEBUG - Calling on_header_value with data[191:214]
+2024-08-09 19:08:36,617 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_data with data[218:220]
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:36,617 - DEBUG - Calling on_header_field with data[272:291]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_header_value with data[293:316]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_data with data[320:323]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_header_field with data[375:394]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_header_value with data[396:420]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_data with data[424:427]
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:36,618 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_field with data[479:498]
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_value with data[500:544]
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_field with data[546:558]
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_value with data[560:570]
+2024-08-09 19:08:36,619 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:08:36,619 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:08:36,619 - DEBUG - Calling on_part_data with data[574:10977]
+2024-08-09 19:08:36,619 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:08:36,619 - DEBUG - Calling on_end with no data
+2024-08-09 19:08:36,620 - INFO - Received image transformation request
+2024-08-09 19:08:36,620 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:08:36,620 - INFO - Rotating image by 25 degrees
+2024-08-09 19:08:36,640 - INFO - Image transformation successful
+2024-08-09 19:08:36,641 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.03s
+2024-08-09 19:09:35,898 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:35,898 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:09:35,898 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:09:35,898 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,899 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:35,899 - DEBUG - Calling on_part_data with data[112:118]
+2024-08-09 19:09:35,899 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:35,899 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:35,899 - DEBUG - Calling on_header_field with data[170:189]
+2024-08-09 19:09:35,899 - DEBUG - Calling on_header_value with data[191:214]
+2024-08-09 19:09:35,900 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,900 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:35,900 - DEBUG - Calling on_part_data with data[218:220]
+2024-08-09 19:09:35,900 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:35,900 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:35,900 - DEBUG - Calling on_header_field with data[272:291]
+2024-08-09 19:09:35,901 - DEBUG - Calling on_header_value with data[293:316]
+2024-08-09 19:09:35,901 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,901 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:35,901 - DEBUG - Calling on_part_data with data[320:323]
+2024-08-09 19:09:35,901 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:35,901 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:35,901 - DEBUG - Calling on_header_field with data[375:394]
+2024-08-09 19:09:35,902 - DEBUG - Calling on_header_value with data[396:420]
+2024-08-09 19:09:35,902 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,902 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:35,902 - DEBUG - Calling on_part_data with data[424:427]
+2024-08-09 19:09:35,902 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:35,902 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:35,902 - DEBUG - Calling on_header_field with data[479:498]
+2024-08-09 19:09:35,903 - DEBUG - Calling on_header_value with data[500:544]
+2024-08-09 19:09:35,903 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,903 - DEBUG - Calling on_header_field with data[546:558]
+2024-08-09 19:09:35,903 - DEBUG - Calling on_header_value with data[560:570]
+2024-08-09 19:09:35,903 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:35,903 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:35,903 - DEBUG - Calling on_part_data with data[574:10977]
+2024-08-09 19:09:35,904 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:35,904 - DEBUG - Calling on_end with no data
+2024-08-09 19:09:35,904 - INFO - Received image transformation request
+2024-08-09 19:09:35,904 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:09:35,905 - INFO - Resizing image to 200x200
+2024-08-09 19:09:35,925 - INFO - Image transformation successful
+2024-08-09 19:09:35,926 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.03s
+2024-08-09 19:09:57,155 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:57,156 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:09:57,156 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:09:57,156 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,156 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:57,157 - DEBUG - Calling on_part_data with data[112:121]
+2024-08-09 19:09:57,157 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:57,157 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:57,158 - DEBUG - Calling on_header_field with data[173:192]
+2024-08-09 19:09:57,158 - DEBUG - Calling on_header_value with data[194:217]
+2024-08-09 19:09:57,158 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,158 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:57,158 - DEBUG - Calling on_part_data with data[221:223]
+2024-08-09 19:09:57,158 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:57,159 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:57,159 - DEBUG - Calling on_header_field with data[275:294]
+2024-08-09 19:09:57,159 - DEBUG - Calling on_header_value with data[296:319]
+2024-08-09 19:09:57,159 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,159 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:57,159 - DEBUG - Calling on_part_data with data[323:326]
+2024-08-09 19:09:57,159 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:57,160 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:57,160 - DEBUG - Calling on_header_field with data[378:397]
+2024-08-09 19:09:57,160 - DEBUG - Calling on_header_value with data[399:423]
+2024-08-09 19:09:57,160 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,160 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:57,160 - DEBUG - Calling on_part_data with data[427:430]
+2024-08-09 19:09:57,160 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:57,161 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_field with data[482:501]
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_value with data[503:547]
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_field with data[549:561]
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_value with data[563:573]
+2024-08-09 19:09:57,161 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:09:57,161 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:09:57,162 - DEBUG - Calling on_part_data with data[577:10980]
+2024-08-09 19:09:57,162 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:09:57,162 - DEBUG - Calling on_end with no data
+2024-08-09 19:09:57,163 - INFO - Received image transformation request
+2024-08-09 19:09:57,163 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:09:57,163 - INFO - Applying grayscale transformation
+2024-08-09 19:09:57,171 - INFO - Image transformation successful
+2024-08-09 19:09:57,172 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.02s
+2024-08-09 19:14:26,827 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_value with data[71:115]
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_field with data[117:129]
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_value with data[131:141]
+2024-08-09 19:14:26,828 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:26,828 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:14:26,829 - DEBUG - Calling on_part_data with data[145:10548]
+2024-08-09 19:14:26,829 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:14:26,829 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:14:26,829 - DEBUG - Calling on_header_field with data[10600:10619]
+2024-08-09 19:14:26,829 - DEBUG - Calling on_header_value with data[10621:10658]
+2024-08-09 19:14:26,829 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:26,829 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:14:26,829 - DEBUG - Calling on_part_data with data[10662:10671]
+2024-08-09 19:14:26,829 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:14:26,830 - DEBUG - Calling on_end with no data
+2024-08-09 19:14:26,830 - INFO - Received image transformation request
+2024-08-09 19:14:26,830 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:14:26,830 - INFO - Applying grayscale transformation
+2024-08-09 19:14:26,838 - INFO - Image transformation successful
+2024-08-09 19:14:26,839 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.01s
+2024-08-09 19:14:53,879 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:14:53,879 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:14:53,879 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:14:53,879 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:53,879 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:14:53,879 - DEBUG - Calling on_part_data with data[112:121]
+2024-08-09 19:14:53,879 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:14:53,880 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_field with data[173:192]
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_value with data[194:238]
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_field with data[240:252]
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_value with data[254:264]
+2024-08-09 19:14:53,880 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:14:53,880 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:14:53,880 - DEBUG - Calling on_part_data with data[268:10671]
+2024-08-09 19:14:53,881 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:14:53,881 - DEBUG - Calling on_end with no data
+2024-08-09 19:14:53,881 - INFO - Received image transformation request
+2024-08-09 19:14:53,881 - DEBUG - File uploaded with filename: test.jpeg
+2024-08-09 19:14:53,881 - INFO - Applying grayscale transformation
+2024-08-09 19:14:53,888 - INFO - Image transformation successful
+2024-08-09 19:14:53,889 - INFO - POST http://localhost:8000/transform/ - Status: 200 - Time: 0.01s
+2024-08-09 19:18:12,927 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:18:12,927 - DEBUG - Calling on_header_field with data[50:69]
+2024-08-09 19:18:12,927 - DEBUG - Calling on_header_value with data[71:108]
+2024-08-09 19:18:12,927 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:18:12,927 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:18:12,928 - DEBUG - Calling on_part_data with data[112:121]
+2024-08-09 19:18:12,928 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:18:12,928 - DEBUG - Calling on_part_begin with no data
+2024-08-09 19:18:12,928 - DEBUG - Calling on_header_field with data[173:192]
+2024-08-09 19:18:12,928 - DEBUG - Calling on_header_value with data[194:236]
+2024-08-09 19:18:12,928 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:18:12,928 - DEBUG - Calling on_header_field with data[238:250]
+2024-08-09 19:18:12,928 - DEBUG - Calling on_header_value with data[252:276]
+2024-08-09 19:18:12,929 - DEBUG - Calling on_header_end with no data
+2024-08-09 19:18:12,929 - DEBUG - Calling on_headers_finished with no data
+2024-08-09 19:18:12,930 - DEBUG - Calling on_part_data with data[280:24308]
+2024-08-09 19:18:12,930 - DEBUG - Calling on_part_end with no data
+2024-08-09 19:18:12,930 - DEBUG - Calling on_end with no data
+2024-08-09 19:18:12,930 - INFO - Received image transformation request
+2024-08-09 19:18:12,930 - DEBUG - File uploaded with filename: app.log
+2024-08-09 19:18:12,931 - DEBUG - Importing BlpImagePlugin
+2024-08-09 19:18:12,932 - DEBUG - Importing BmpImagePlugin
+2024-08-09 19:18:12,932 - DEBUG - Importing BufrStubImagePlugin
+2024-08-09 19:18:12,933 - DEBUG - Importing CurImagePlugin
+2024-08-09 19:18:12,933 - DEBUG - Importing DcxImagePlugin
+2024-08-09 19:18:12,934 - DEBUG - Importing DdsImagePlugin
+2024-08-09 19:18:12,939 - DEBUG - Importing EpsImagePlugin
+2024-08-09 19:18:12,941 - DEBUG - Importing FitsImagePlugin
+2024-08-09 19:18:12,942 - DEBUG - Importing FliImagePlugin
+2024-08-09 19:18:12,943 - DEBUG - Importing FpxImagePlugin
+2024-08-09 19:18:12,944 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-08-09 19:18:12,944 - DEBUG - Importing FtexImagePlugin
+2024-08-09 19:18:12,944 - DEBUG - Importing GbrImagePlugin
+2024-08-09 19:18:12,945 - DEBUG - Importing GifImagePlugin
+2024-08-09 19:18:12,945 - DEBUG - Importing GribStubImagePlugin
+2024-08-09 19:18:12,945 - DEBUG - Importing Hdf5StubImagePlugin
+2024-08-09 19:18:12,946 - DEBUG - Importing IcnsImagePlugin
+2024-08-09 19:18:12,947 - DEBUG - Importing IcoImagePlugin
+2024-08-09 19:18:12,947 - DEBUG - Importing ImImagePlugin
+2024-08-09 19:18:12,950 - DEBUG - Importing ImtImagePlugin
+2024-08-09 19:18:12,950 - DEBUG - Importing IptcImagePlugin
+2024-08-09 19:18:12,951 - DEBUG - Importing JpegImagePlugin
+2024-08-09 19:18:12,951 - DEBUG - Importing Jpeg2KImagePlugin
+2024-08-09 19:18:12,951 - DEBUG - Importing McIdasImagePlugin
+2024-08-09 19:18:12,951 - DEBUG - Importing MicImagePlugin
+2024-08-09 19:18:12,952 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-08-09 19:18:12,952 - DEBUG - Importing MpegImagePlugin
+2024-08-09 19:18:12,952 - DEBUG - Importing MpoImagePlugin
+2024-08-09 19:18:12,957 - DEBUG - Importing MspImagePlugin
+2024-08-09 19:18:12,957 - DEBUG - Importing PalmImagePlugin
+2024-08-09 19:18:12,958 - DEBUG - Importing PcdImagePlugin
+2024-08-09 19:18:12,959 - DEBUG - Importing PcxImagePlugin
+2024-08-09 19:18:12,959 - DEBUG - Importing PdfImagePlugin
+2024-08-09 19:18:12,968 - DEBUG - Importing PixarImagePlugin
+2024-08-09 19:18:12,969 - DEBUG - Importing PngImagePlugin
+2024-08-09 19:18:12,969 - DEBUG - Importing PpmImagePlugin
+2024-08-09 19:18:12,969 - DEBUG - Importing PsdImagePlugin
+2024-08-09 19:18:12,969 - DEBUG - Importing QoiImagePlugin
+2024-08-09 19:18:12,970 - DEBUG - Importing SgiImagePlugin
+2024-08-09 19:18:12,970 - DEBUG - Importing SpiderImagePlugin
+2024-08-09 19:18:12,971 - DEBUG - Importing SunImagePlugin
+2024-08-09 19:18:12,971 - DEBUG - Importing TgaImagePlugin
+2024-08-09 19:18:12,971 - DEBUG - Importing TiffImagePlugin
+2024-08-09 19:18:12,971 - DEBUG - Importing WebPImagePlugin
+2024-08-09 19:18:12,972 - DEBUG - Importing WmfImagePlugin
+2024-08-09 19:18:12,973 - DEBUG - Importing XbmImagePlugin
+2024-08-09 19:18:12,974 - DEBUG - Importing XpmImagePlugin
+2024-08-09 19:18:12,975 - DEBUG - Importing XVThumbImagePlugin
+2024-08-09 19:18:12,976 - ERROR - Failed to validate image: cannot identify image file <_io.BytesIO object at 0x771723ec59e0>
+2024-08-09 19:18:12,976 - INFO - POST http://localhost:8000/transform/ - Status: 400 - Time: 0.05s
